@@ -1,5 +1,43 @@
+marquee {
+    background-color: rgb(15, 15, 15);
+    color: rgb(65, 81, 225);
+    font-weight: bold;
+}
+
 body {
-    background-image: url(https://besthqwallpapers.com/Uploads/21-7-2020/137740/blue-creative-background-blue-lines-background-technology-blue-background-lines-blue-background.jpg);
-    display: flex;
-    align-items: center;
+    background-image: url(https://img.freepik.com/vetores-gratis/fundo-digital-de-conexao-de-rede-honeycomb_23-2148821704.jpg?w=996&t=st=1670538254~exp=1670538854~hmac=248ec342523a2c235ca6b0d77b16fd04a16b727c2af33f80f10bd53d0d63e87e);
+}
+
+form {
+    text-align: center;
+    color: black;
+    font-size: medium;
+    font-weight: bold;
+}
+
+label {
+    border-radius: 200px;
+    background: royalblue;
+    font-weight: bold;
+}
+
+input, option, select, textarea {
+    background-color: blanchedalmond;
+    border-radius: 100px;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
+
+fieldset {
+    text-align: center;
+    width: 250px;
+    height: 60px;
+    border-radius: 50px;
+    background: #4169e1;
+    box-shadow: inset 20px 20px 40px #2f4ca2,
+            inset -20px -20px 40px #5386ff;
+}
+
+legend {
+    color: white;
 }
