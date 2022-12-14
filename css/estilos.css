@@ -30,8 +30,6 @@ input, option, select, textarea {
 
 fieldset {
     text-align: center;
-    width: 250px;
-    height: 60px;
     border-radius: 50px;
     background: #4169e1;
     box-shadow: inset 20px 20px 40px #2f4ca2,
